@@ -1,3 +1,3 @@
 # Movies
 
-Analysis performed on moviesd data to generate useful information.
+Analysis performed on movies data to generate useful information.
